@@ -15,7 +15,7 @@ Built as part of my Smart Manufacturing engineering studies at IIITDM Jabalpur.
 
 ## Output Images
 ### Original vs Defects Highlighted
-![Defects](surface.jpg)(defects_highlighted.jpg)
+![Defects](surface.jpg)![Defects](defects_highlighted.jpg)
 
 ## Technologies Used
 - Python

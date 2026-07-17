@@ -26,3 +26,15 @@ Built as part of my Smart Manufacturing engineering studies at IIITDM Jabalpur.
 pip install opencv-python
 python defect_detection.py
 ```
+## Contour Detection
+- 208 raw contours detected
+- 9 real defects after noise filtering
+- Each defect boxed and numbered automatically
+
+  ## Defect Classification Results
+- Total defects: 9
+- Small defects: 7
+- Medium defects: 2  
+- Large defects: 0
+
+![Defects Classified](defects_boxed.jpg)
